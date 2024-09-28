@@ -1,4 +1,4 @@
-# PerformanceReport_PowerBI
+# Performance Report Using PowerBI
 Hello there!
 
 I am thrilled to share my latest Analytics Project - Performance Report. 
